@@ -1,0 +1,3 @@
+leeburrows
+
+http://blog.leeburrows.com/2011/08/javascript-for-flashers-externalinterface/
